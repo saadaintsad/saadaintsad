@@ -6,7 +6,7 @@
 
 ## about
 
-3rd year student with a 4.0 GPA. Started my coding journey recently and committed to the next 2 years of serious project building. Currently learning fundamentals and looking for opportunities to grow.
+Started my coding journey recently and committed to serious project building. Currently learning fundamentals and looking for opportunities to grow.
 
 ---
 
